@@ -11,7 +11,7 @@
 <!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
 
 
-I'm Iranildo Araújo** an 36 y.o. Physicist (Graduated) and Computer Scientist (graduating).
+I'm Iranildo Araújo, a 36 y.o. Physicist (Graduated) and Computer Scientist (graduating).
 
 <!-- to print thick horizontal line -->
 ---
