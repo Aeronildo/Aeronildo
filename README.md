@@ -1,16 +1,17 @@
-## Hi there 👋
+<!-- TODO: Add class that explains all the tools you use -->
 
-<!--
-**Aeronildo/Aeronildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <a target="blank"><img align="left" src="./assets/patric1.gif" /></a> -->
 
-Here are some ideas to get you started:
+### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
+
+<!-- <a target="blank"><img align="left" src="./assets/profile_pic.gif" /></a> -->
+
+
+I'm Iranildo Araújo** an 36 y.o. Physicist (Graduated) and Computer Scientist (graduating).
+
+<!-- to print thick horizontal line -->
+---
